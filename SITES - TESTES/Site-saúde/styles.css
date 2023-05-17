@@ -1,0 +1,121 @@
+*{
+          background: #00ffff;
+ 	      margin:0;
+             padding:0; 
+          box-sizing: border-box;
+          }
+
+
+	        Tittle{
+                margin: 30%;
+            margin-top: 20px; 
+                 Color: blue; 
+             font-size:40px; 
+           font-weight: bold;
+             }
+ 
+	header{
+	       margin-top:20px;
+              margin-left:10%;
+	      margin-bottom:20px;
+              }
+
+
+	.link-header{
+                     margin-left:10px;
+                       font-size:30px; 
+                     font-weight: bold; 
+                     line-height: 30px; 
+                          cursor: pointer;
+                     }
+
+
+	    h1{
+		height:80px;
+		 width:80%; 
+		margin-left: 50px;
+		margin-top: 20px; 
+		padding: 10px 10px 10px 30px; 
+		color: red; 
+		font-size: 40px; 
+			}
+  
+
+	
+		h2{
+		    font-size:40px;
+		display: inline-block;
+	    margin-left:70%;
+		   width: 30%;
+		border: 3px solid blue;
+			}
+
+
+
+		h3{
+		    font-size:40px;
+		display: inline-block;
+		 margin-left:70%;
+		   width: 30%;
+		border: 3px solid blue;
+			}
+
+	
+		#cx1{
+		     position:relative;
+			width:100%;
+			height:150px;
+			z-index:1;
+			}
+
+		#cx2{position:absolute;
+			top: 250px;
+			left:60px;
+			width:45%;
+			height:420px;
+			z-index:2;
+			border:5px solid #000000;}
+
+		#cx3{position:absolute;
+			top:250px;
+			left:800px;
+			 width:45%;
+			height:420px;
+			z-index:4;
+			border:5px solid #000000;}
+
+	
+		#cx4{
+			font-size:30px;
+		    position:relative;
+			 top: 420px;
+			width:100%;
+			height:150px;
+			z-index:3;
+		     background: #00008B;
+			border:5px solid #000000;}
+
+
+
+
+
+
+
+	.redes_sociais{background: #00008B;
+		color:white;}
+	
+		.classe_redes_sociais{color: red; background: #00008B;}
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
